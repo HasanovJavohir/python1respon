@@ -1,2 +1,2 @@
-# python1respon
-Mening birinchi "readme" 
+# Python1respo
+Birinchi dastur!
